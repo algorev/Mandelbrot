@@ -10,6 +10,8 @@ Why not?
 
 ```raku mandelbrot.raku width height [<type>] [<num-iter>]```
 
+Note: you need to have [Raku](https://raku.org) installed.
+
 ```width```: width of the output, in console characters.
 
 ```height```: height of the output, in console characters.
