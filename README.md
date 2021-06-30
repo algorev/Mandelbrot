@@ -1,4 +1,4 @@
-#A Command-line Fractal Generator
+# A Command-line Fractal Generator
 
 You call it, and it draws a fractal. Right in your terminal.
 
@@ -8,7 +8,7 @@ Why not?
 
 ## Usage
 
-```raku mandelbrot.raku width height [<type>] [<num-iter>]```
+```raku mandelbrot.raku <width> <height> [<type>] [<num-iter>]```
 
 Note: you need to have [Raku](https://raku.org) installed.
 
